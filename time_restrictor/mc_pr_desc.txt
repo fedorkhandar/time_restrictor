@@ -1,0 +1,46 @@
+
+instance of Win32_Process
+{
+	Caption = "Minecraft.Windows.exe";
+	CommandLine = "\"C:\\Program Files\\WindowsApps\\Microsoft.MinecraftUWP_1.20.6201.0_x64__8wekyb3d8bbwe\\Minecraft.Windows.exe\" -ServerName:App.AppXvsek7xxqtqbp5m03tfyjk3g7d7h357dx.mca";
+	CreationClassName = "Win32_Process";
+	CreationDate = "20240221160041.800732+480";
+	CSCreationClassName = "Win32_ComputerSystem";
+	CSName = "DESKTOP-AR5L2JH";
+	Description = "Minecraft.Windows.exe";
+	ExecutablePath = "C:\\Program Files\\WindowsApps\\Microsoft.MinecraftUWP_1.20.6201.0_x64__8wekyb3d8bbwe\\Minecraft.Windows.exe";
+	Handle = "13276";
+	HandleCount = 415;
+	KernelModeTime = "6875000";
+	MaximumWorkingSetSize = 1380;
+	MinimumWorkingSetSize = 200;
+	Name = "Minecraft.Windows.exe";
+	OSCreationClassName = "Win32_OperatingSystem";
+	OSName = "Майкрософт Windows 10 Pro|C:\\Windows|\\Device\\Harddisk3\\Partition3";
+	OtherOperationCount = "8515";
+	OtherTransferCount = "151216";
+	PageFaults = 24875;
+	PageFileUsage = 314776;
+	ParentProcessId = 804;
+	PeakPageFileUsage = 323108;
+	PeakVirtualSize = "2204087209984";
+	PeakWorkingSetSize = 83880;
+	Priority = 8;
+	PrivatePageCount = "322330624";
+	ProcessId = 13276;
+	QuotaNonPagedPoolUsage = 23;
+	QuotaPagedPoolUsage = 554;
+	QuotaPeakNonPagedPoolUsage = 35;
+	QuotaPeakPagedPoolUsage = 574;
+	ReadOperationCount = "20";
+	ReadTransferCount = "14620";
+	SessionId = 2;
+	ThreadCount = 24;
+	UserModeTime = "4687500";
+	VirtualSize = "2203979968512";
+	WindowsVersion = "10.0.19045";
+	WorkingSetSize = "77766656";
+	WriteOperationCount = "0";
+	WriteTransferCount = "0";
+};
+
