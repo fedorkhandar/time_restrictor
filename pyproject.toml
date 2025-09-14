@@ -1,14 +1,10 @@
-[tool.poetry]
+[project]
 name = "time-restrictor"
 version = "0.1.0"
-description = ""
-authors = ["fedor.khandar <fedorkhandar@gmail.com>"]
+description = "Add your description here"
 readme = "README.md"
-
-[tool.poetry.dependencies]
-python = "^3.11"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires-python = ">=3.12"
+dependencies = [
+    "psutil>=7.0.0",
+    "transitions>=0.9.3",
+]

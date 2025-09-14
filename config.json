@@ -1,0 +1,18 @@
+{
+    "restricted_apps": [
+        "PotPlayer",
+        "BitTorrent",
+        "YouTube"
+    ],
+    "limits": {
+        "day_start_ms": 21600000,
+        "day_end_ms": 73800000,
+        "sessions_n_max": 3,
+        "session_duration_ms": 900000,
+        "minimal_rest_period_ms": 3600000
+    },
+    "config": {
+        "period_sec": 5,
+        "db_name": "restrictor_db"
+    }
+}
